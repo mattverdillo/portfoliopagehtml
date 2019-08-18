@@ -1,0 +1,53 @@
+body {
+	  background: url('bg.jpg') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  font-family: 'Noto Serif KR', sans-serif;
+
+} 
+
+h1 {
+	color: #1E9EE3;
+	font-size: 50px;
+	font-weight: normal;
+	margin-bottom: 0;	
+} 
+
+h2 {
+	color: white;
+	font-size: 18px;
+	margin-top: 0;	
+}
+
+.bio {
+	color: white;
+	font-size: 14px;
+}
+
+
+.me {
+	height: 250px;
+	border-radius: 100%;
+	border-style: solid;
+	border-color: white;
+	margin-top: 40px;
+	shape-rendering: geometricPrecision;
+	shape-rendering: crispEdges;
+}
+
+
+.about {
+	width: 400px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+.grey {
+	height: 3px;
+	background-color: #545556;
+	border: none;
+	width: 50px;
+}
